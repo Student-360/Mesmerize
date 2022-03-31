@@ -41,8 +41,10 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://user-images.githubusercontent.com/91206272/160965129-6c711969-8c15-4581-893a-915393c8978e)
 ![](https://photos.google.com/search/_tra_/photo/AF1QipNFmrvBPu9BeVGvWnTdz2_09jDy0aQkK-wrXLIU)
-![](gif3-link-here)
-![](gif4-link-here)
+![Alt Text](https://user-images.githubusercontent.com/91206272/160965129-6c711969-8c15-4581-893a-915393c8978e)
+![Alt Text](https://photos.google.com/search/_tra_/photo/AF1QipNFmrvBPu9BeVGvWnTdz2_09jDy0aQkK-wrXLIU)
+
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
