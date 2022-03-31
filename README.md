@@ -40,8 +40,6 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://www.kapwing.com/videos/62451e1ab3dcc2005f1bebae)
-![](https://photos.google.com/search/_tra_/photo/AF1QipNFmrvBPu9BeVGvWnTdz2_09jDy0aQkK-wrXLIU)
-![Alt Text](https://user-images.githubusercontent.com/91206272/160965129-6c711969-8c15-4581-893a-915393c8978e)
 ![Alt Text](https://www.kapwing.com/videos/62451e1ab3dcc2005f1bebae) 
 
 
