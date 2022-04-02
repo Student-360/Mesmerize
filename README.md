@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://www.loom.com/share/43ae94f9d2a8435bb103e8caccc286a6)
+![](https://media.giphy.com/media/6pvyPSrvCsvJ8JCluV/giphy.gif)
 
 
 ## Reflection Questions
@@ -85,7 +85,7 @@ Finally, it would be really cool to have the user receive a chance to continue p
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://vimeo.com/694951716/391044d9b5)
+[My 5-minute Interview Recording](https://www.loom.com/share/43ae94f9d2a8435bb103e8caccc286a6)
 
 
 ## License
