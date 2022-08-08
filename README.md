@@ -1,6 +1,6 @@
 Link to project: https://glitch.com/edit/#!/separated-royal-octopus?path=script.js%3A1%3A0
 
-The following functionality is complete:
+Base Features implemented:
 
 * [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [X] "Start" button toggles between "Start" and "Stop" when clicked. 
@@ -10,7 +10,7 @@ The following functionality is complete:
 * [X] User wins the game after guessing a complete pattern
 * [X] User loses the game after an incorrect guess
 
-The following additional features are also implemented:
+Additional features implemented:
 
 * [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [X] Buttons use a pitch (frequency) other than the ones in the tutorial
